@@ -9,7 +9,7 @@ I’m currently <strong>Open to Work</strong>.</h4>
 
 <br>
 
-<h3 align="center">I’m currently upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
+<h3 align="center">Currently I´m upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
 
 <h3 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/"><em>LinkedIN</em></a>.<br>
 It will be a pleasure to receive you on <a href="https://medium.com/rosanafss"><em>Medium</em></a>.</h3>
