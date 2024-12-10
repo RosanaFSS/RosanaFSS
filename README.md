@@ -8,11 +8,11 @@
 
 <br>
 
-<br>
+<p align="center">
+<img width="150px" hspace="20" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" />
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&">
+</p>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" /></p>
 
 <br>
 
