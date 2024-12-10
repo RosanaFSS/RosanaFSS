@@ -1,5 +1,5 @@
-<h2 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br><br>
-<img  height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /></h2>
+<h2 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
+                  <img  hspace="10" height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /></h2>
 
 <h4 align="center">
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="10" />
