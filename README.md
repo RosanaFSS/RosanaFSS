@@ -8,7 +8,7 @@
 
 - 📝 I am used to write on [Medium](https://medium.com/@rosana.viaja/](https://medium.com/@rosana.viaja/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/rosanafssantos/**
+- 📫 Reach me on LinkedIN **https://www.linkedin.com/in/rosanafssantos/**
 
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
 
