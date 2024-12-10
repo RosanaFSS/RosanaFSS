@@ -16,8 +16,8 @@ I’m currently <strong><em>Open to Work</em></strong>.</h4>
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
 
 
-<h2 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RosanaFSSantos" height="24" /></a>.<br>
-It will be a pleasure to receive your visit on Medium <a href="https://medium.com/rosanafss"></a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="24"/></a>.</h2>
+<h2 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/"><em>LinkedIN</em></a>.<br>
+It will be a pleasure to receive your visit on Medium <a href="https://medium.com/rosanafss"></a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="24"/><em>Medium</em></a>.</h2>
 
 
 <h2  align="center">My $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$ has valuable gadgets!!<br><br>
