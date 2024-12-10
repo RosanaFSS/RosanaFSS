@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Rosana</h1>
-<h6 align="center">I’m currently **Open to Work.**</h6>
+<h6 align="center">I’m currently <strong>Open to Work<em></em></strong>.</h6>
 
 <br>
 
