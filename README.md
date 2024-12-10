@@ -1,5 +1,4 @@
-<h2 align="center">Hey there 👋, &nbsp;&nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
-                  <img  vspace="30" height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /></h2>
+<h2 align="center">Hey there 👋, &nbsp;&nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br></h2>
 
 <h4 align="center">
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="10" />
@@ -25,3 +24,4 @@ It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
 
+<h2 align="right"> <img  vspace="30" height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /></h2>
