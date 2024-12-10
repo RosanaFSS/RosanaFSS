@@ -14,9 +14,16 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 <br>
 
 <p align="center">
+  <img height="150px" hspace="20" src="https://github.com/user-attachments/assets/8d077e24-767e-4ac1-83f9-808a1dc8c077">
+  <img height="150px" src="https://github.com/user-attachments/assets/b2e435b4-668c-478d-a7ab-23bae2902142">
+
+</p>
+
+
+<p align="center">
 <img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Stars&theme=dracula"> <img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Repositories&theme=dracula"> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rosanafss&theme=dracula" alt="RosanaFSS" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Stars&theme=dracula" alt="RosanaFSS" /> <img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Repositories&theme=dracula"></a> </p>
 
 <h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
 It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
