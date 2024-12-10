@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>!<br><br>
+<h2 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br><br>
 <img  height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /></h2>
 
 <h4 align="center">
