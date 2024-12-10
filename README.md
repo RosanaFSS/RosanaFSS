@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center"> <img  height="50px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
+<p align="center"> <img  height="25px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
 
 <p align="center">
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS" />
