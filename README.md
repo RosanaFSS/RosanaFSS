@@ -10,8 +10,10 @@ I’m currently <strong><em>Open to Work</em></strong>.</h4>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
 
+<br>
 
-- 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
+<h2 align="center">I’m currently upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h2>
+
 
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
 
