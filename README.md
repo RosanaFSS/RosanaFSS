@@ -28,7 +28,7 @@ It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="h
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosanafss"=algolia alt="RosanaFSS" /></a> </p>
 
 
-<h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rosanafssantos" height="24" /></a>.</h4>
+<h2 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RosanaFSSantos" height="24" /></a>.</h2>
 <h4 align="center">It´ll be a pleasure to receive yout visit on Medium <a href="https://medium.com/rosanafss">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="24"/></a>.</h4>
 
 
