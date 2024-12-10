@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rosana</h1>
 <h3 align="center">...a</h3>
-<h3 align="center">I’m currently **Open to Work.**</h3>
+<h6 align="center">I’m currently **Open to Work.**</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
 
