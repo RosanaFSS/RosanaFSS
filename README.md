@@ -4,13 +4,11 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
-
-<br>
+<p align="center"> <img  height="50px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
 
 <p align="center">
+<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS" />
 <img height="140px" hspace="20" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" />
-<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&">
 </p>
 
 
