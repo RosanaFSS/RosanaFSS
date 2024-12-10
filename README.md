@@ -3,7 +3,7 @@
 
 
 <h4 align="center">
-<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="20" />
+<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="10" />
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" /><br>
 I’m currently <strong><em>Open to Work</em></strong>.</h4>
 
