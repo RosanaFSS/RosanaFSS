@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
 
-- 📝 I am used to write on [https://medium.com/@rosana.viaja/](https://medium.com/@rosana.viaja/)
+- 📝 I am used to write on [Medium](https://medium.com/@rosana.viaja/](https://medium.com/@rosana.viaja/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/rosanafssantos/**
 
