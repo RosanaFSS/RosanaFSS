@@ -13,7 +13,7 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="60" src="https://github-profile-trophy.vercel.app/?username=rosanafss&theme=dracula" alt="rosanafss" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="80" src="https://github-profile-trophy.vercel.app/?username=rosanafss&theme=dracula" alt="rosanafss" /></a> </p>
 
 <h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
 It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
