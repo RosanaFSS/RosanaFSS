@@ -4,7 +4,7 @@
 <h5 align="center">I’m currently <strong>Open to Work</strong>.</h5></h3>
 
 <h3 align="center">$$\textcolor{white}{\textbf{Passionated about how technology can improve life quality!}}$$<br>
-<br>Currently I´m upskilling learning <code><strong>Cyber Security</strong></code> and <code>Cloud Computing</code></h3>
+$$\textcolor{white}{\textbf{Currently I´m upskilling learning <code><strong>Cyber Security</strong></code> and <code>Cloud Computing</code>}}$$</h3>
 
 <br>
 
