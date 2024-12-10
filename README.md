@@ -2,9 +2,7 @@
 <h3 align="center">...a</h3>
 <h6 align="center">I’m currently **Open to Work.**</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosanafss" alt="rosanafss" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
 
@@ -13,6 +11,11 @@
 - 📫 How to reach me **https://www.linkedin.com/in/rosanafssantos/**
 
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosanafss" alt="rosanafss" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
