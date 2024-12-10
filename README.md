@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
 
 <br>
 
