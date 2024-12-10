@@ -14,8 +14,7 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 <br>
 
 <p align="center">
-<img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Stars&theme=dracula">
-<img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Repositories&theme=dracula"> </p>
+<img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Stars&theme=dracula"> <img height="70px" src="https://github-profile-trophy.vercel.app/?username=rosanafss&title=Repositories&theme=dracula"> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rosanafss&theme=dracula" alt="RosanaFSS" /></a> </p>
 
