@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosanafss" alt="rosanafss" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber Security and Cloud Computing.**
+- 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
 
 - 📝 I am used to write on [https://medium.com/@rosana.viaja/](https://medium.com/@rosana.viaja/)
 
