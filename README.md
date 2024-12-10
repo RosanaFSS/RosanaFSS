@@ -7,16 +7,9 @@
 I’m currently <strong><em>Open to Work</em></strong>.</h4>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
-
 <br>
 
-<h2 align="center">I’m currently upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h2>
-
-
-- 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
-
+<h3 align="center">I’m currently upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
 
 <h3 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/"><em>LinkedIN</em></a>.<br>
 It will be a pleasure to receive you on <a href="https://medium.com/rosanafss"><em>Medium</em></a>.</h3>
@@ -29,3 +22,8 @@ It will be a pleasure to receive you on <a href="https://medium.com/rosanafss"><
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rosanafss"=algolia alt="RosanaFSS" /></a> </p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
+
