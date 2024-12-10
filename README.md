@@ -1,6 +1,6 @@
 <h2 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>!</h2>
 <p align="center"> <img  height="32px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> <br>
-<h5 align="center">I’m currently <strong>Open to Work<em></em></strong>.</h5></p>
+<h5 align="center">I’m currently <strong><em>Open to Work</em></strong>.</h5></p>
 
 <p align="center">
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS" />
