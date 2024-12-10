@@ -6,13 +6,14 @@
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" /><br>
 I’m currently <strong>Open to Work</strong>.</h4>
 
+<h3 align="center">Currently I´m upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
 
 <br>
 
-<h3 align="center">Currently I´m upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
-
 <h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
 It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
+
+<br>
 
 
 <h3  align="center">My $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$ has valuable gadgets!!<br><br>
