@@ -1,8 +1,8 @@
 <h2 align="center">Hey there 👋, &nbsp;&nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br></h2>
 
 <h4 align="center">
-<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="10" />
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=radical" alt="RosanaFSS" /><br>
+<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&&theme=dracula" alt="RosanaFSS"  hspace="10" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=dracula" alt="RosanaFSS" /><br>
 I’m currently <strong>Open to Work</strong>.</h4>
 
 <h3 align="center">Passionated about how technology can improve life quality!<br>Currently I´m upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
