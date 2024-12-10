@@ -11,8 +11,8 @@ I’m currently <strong>Open to Work</strong>.</h4>
 
 <h3 align="center">Currently I´m upskilling learning <code>Cyber Security</code> and <code>Cloud Computing</code></h3>
 
-<h3 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/"><em>LinkedIN</em></a>.<br>
-It will be a pleasure to receive you on <a href="https://medium.com/rosanafss"><em>Medium</em></a>.</h3>
+<h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
+It´ll be a pleasure to receive you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
 
 
 <h3  align="center">My $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$ has valuable gadgets!!<br><br>
