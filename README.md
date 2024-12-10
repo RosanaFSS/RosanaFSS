@@ -24,7 +24,7 @@ I’m currently <strong><em>Open to Work</em></strong>.</h4>
 
 
 <h2 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RosanaFSSantos" height="24" /></a>.</h2>
-<h4 align="center">And it´ll be a pleasure to receive yout visit on Medium <a href="https://medium.com/rosanafss">LinkedIN</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="24"/></a>.</h4>
+<h4 align="center">It will be a pleasure to receive your visit on Medium <a href="https://medium.com/rosanafss">Medium</a> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="24"/></a>.</h4>
 
 
 <p align="center">I have valuable gadgets in my $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$!</p>
