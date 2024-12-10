@@ -16,13 +16,8 @@ I’m currently <strong>Open to Work</strong>.</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rosanafss"=algolia alt="RosanaFSS" /></a> </p>
 
-<br>
-
 <h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
 It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
-
-<br>
-
 
 <p align="center">
 <img height="70px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS"/> <br>
