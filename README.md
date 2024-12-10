@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-<img height="150px" hspace="20" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" />
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&">
+<img height="130px" hspace="20" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" />
+<img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&">
 </p>
 
 
