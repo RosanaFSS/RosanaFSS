@@ -13,10 +13,6 @@ I’m currently <strong><em>Open to Work</em></strong>.</h4>
 
 - 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
 
-- 📝 I am used to write on [Medium](https://medium.com/@rosana.viaja/](https://medium.com/@rosana.viaja/)
-
-- 📫 Reach me on LinkedIN **https://www.linkedin.com/in/rosanafssantos/**
-
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
 
 
