@@ -21,5 +21,10 @@ I’m currently <strong>Open to Work</strong>.</h4>
 <h4 align="center">Connect with me through <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.<br>
 It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</a>.</h4>
 
+<h4 align="center">
+<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&" alt="RosanaFSS"  hspace="10" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" /><br>
+I’m currently <strong>Open to Work</strong>.</h4>
 
-<p><img height="80px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  vspace="30" height="28px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
+
+<p align="center">> <img height="80px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  vspace="100" height="68px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
