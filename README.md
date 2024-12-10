@@ -1,4 +1,4 @@
-<h3 align="center">Hey there 👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br><br>
+<h3 align="center">Hey 👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br><br>
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&&theme=highcontrast" alt="RosanaFSS"  hspace="20" />
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" /><br>
 <h5 align="center">I’m currently <strong>Open to Work</strong>.</h5></h3>
