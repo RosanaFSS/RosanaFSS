@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rosana</h1>
+<h1 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>!</h1>
 <h5 align="center">I’m currently <strong>Open to Work<em></em></strong>.</h5>
 
 <p align="center"> <img  height="25px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
@@ -9,9 +9,7 @@
 </p>
 
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /></p>
 
 
 - 🌱 I’m currently learning <code>Cyber Security</code> and <code>Cloud Computing</code>.
@@ -21,6 +19,11 @@
 - 📫 Reach me on LinkedIN **https://www.linkedin.com/in/rosanafssantos/**
 
 - 📄 Know about my experiences [shshshshshshssh](shshshshshshssh)
+
+<p align="center">Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{177}}$$-day-streak in  <a href="https://tryhackme.com/r/hacktivities">TryHackMe</a>.</p>
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rosanafss"=algolia alt="RosanaFSS" /></a> </p>
 
