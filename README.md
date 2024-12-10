@@ -26,5 +26,7 @@ It´ll be honored to have you on <a href="https://medium.com/rosanafss">Medium</
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en" alt="RosanaFSS" /><br>
 I’m currently <strong>Open to Work</strong>.</h4>
 
+<br>
 
-<p align="center">> <img height="80px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  vspace="100" height="68px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
+
+<p align="center"> <img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosanafss&show_icons=true&locale=en&layout=compact" alt="RosanaFSS" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  vspace="100" height="50px" src="https://komarev.com/ghpvc/?username=rosanafss&label=Profile%20views&color=0e75b6&style=flat" alt="rosanafss" /> </p>
