@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rosana</h1>
-<h3 align="center">...a</h3>
+<h1 align="center">Hey there 👋, I'm Rosana</h1>
 <h6 align="center">I’m currently **Open to Work.**</h6>
 
 <br>
