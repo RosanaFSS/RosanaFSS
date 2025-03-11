@@ -13,13 +13,12 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e)
-
-
 <p align="center">
-<img height="90px" src=""> </p>
+  <img height="20px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
+  <img height="20px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
+  <img height="20px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
+</p>
 
-<br>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="80" src="https://github-profile-trophy.vercel.app/?username=rosanafss&theme=dracula" alt="rosanafss" /></a> </p>
