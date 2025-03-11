@@ -14,10 +14,11 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 <br>
 
 <p align="center">
-  <img height="60px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
+  <img height="60px" hspace="20" src="https://github.com/user-attachments/assets/487a1784-1c87-44bb-a69f-76248f9f1eeb">
   <img height="60px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
   <img height="60px" hspace="20" src="https://github.com/user-attachments/assets/1688e22b-f13a-43cf-a332-822c7fad9e2e">
 </p>
+
 
 
 
