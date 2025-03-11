@@ -13,7 +13,8 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 
 <br>
 
-![image](https://github.com/user-attachments/assets/ff73fcfb-cad2-434f-9fe0-91eaf1fad1ef)
+![image](https://github.com/user-attachments/assets/0abace69-feed-43e4-bc6e-7cd8f098ad9c)
+
 
 
 <p align="center">
