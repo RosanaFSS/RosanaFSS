@@ -11,21 +11,19 @@
 <br>
 <p align="center"><strong>My skills backpack has valuable gadgets!</strong></p>
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
-    <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" />
-    <img src="https://img.icons8.com/color/48/000000/elk-stack.png" alt="ELK Stack" />
-    <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" />
-    <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" />
-    <img src="https://img.icons8.com/color/48/000000/tshark.png" alt="Tshark" />
-    <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" />
-    <img src="https://img.icons8.com/color/48/000000/snort.png" alt="Snort" />
-    <img src="https://img.icons8.com/color/48/000000/zeek.png" alt="Zeek" />
-    <img src="https://img.icons8.com/color/48/000000/nessus.png" alt="Nessus" />
-    <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp Suite" />
-    <img src="https://img.icons8.com/color/48/000000/owasp-zap.png" alt="OWASP ZAP" />
-    <img src="https://img.icons8.com/color/48/000000/autopsy.png" alt="Autopsy" />
-    <img src="https://img.icons8.com/color/48/000000/openvas.png" alt="OpenVAS" />
-    <img src="https://img.icons8.com/color/48/000000/bloodhound.png" alt="Bloodhound" />
+    <img src="https://img.icons8.com/color/64/000000/linux.png" alt="Linux" title="Linux" />
+    <img src="https://img.icons8.com/color/64/000000/splunk.png" alt="Splunk" title="Splunk" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-elk-stack-cyber-security-flat-flat-juicy-fish.png" alt="ELK Stack" title="ELK Stack" />
+    <img src="https://img.icons8.com/color/64/000000/metasploit.png" alt="Metasploit" title="Metasploit" />
+    <img src="https://img.icons8.com/color/64/000000/wireshark.png" alt="Wireshark" title="Wireshark" />
+    <img src="https://img.icons8.com/color/64/000000/nmap.png" alt="Nmap" title="Nmap" />
+    <img src="https://img.icons8.com/color/64/000000/snort.png" alt="Snort" title="Snort" />
+    <img src="https://img.icons8.com/color/64/000000/zeek.png" alt="Zeek" title="Zeek" />
+    <img src="https://img.icons8.com/color/64/000000/nessus.png" alt="Nessus" title="Nessus" />
+    <img src="https://img.icons8.com/color/64/000000/burp-suite.png" alt="Burp Suite" title="Burp Suite" />
+    <img src="https://img.icons8.com/color/64/000000/autopsy.png" alt="Autopsy" title="Autopsy" />
+    <img src="https://img.icons8.com/color/64/000000/openvas.png" alt="OpenVAS" title="OpenVAS" />
+    <img src="https://img.icons8.com/color/64/000000/bloodhound.png" alt="Bloodhound" title="Bloodhound" />
 </p>
 
 <div align="center">
