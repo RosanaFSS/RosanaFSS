@@ -11,7 +11,7 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /></p>
 
 <h4  align="center">My $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$ has valuable gadgets!!</h4>
-<p align="center">Linux . AWS . Splunk . ELK . </p>
+<p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>
 
 
 
