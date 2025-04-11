@@ -1,3 +1,5 @@
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><bold>Rosana</bold></a></h1>
+
 <h1 align="center">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a></h1><br>
 
 <div align="center">
