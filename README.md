@@ -1,10 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a></h1>
-<h3 align="center">Open to Work</h3>
-<p align="center">
-    Passionate about leveraging technology to enhance quality of life.<br>
-    Specializing in Cyber Security & Cloud Computing
-</p>
-
 <br>
 
 <div align="center">
@@ -13,7 +7,7 @@
 
 <div align="center">
 
-|<h3>Open to Work</h3><p>Passionate about leveraging<br>technology to enhance<br>quality of life.<br>Specializing in<br> Cyber Security & Cloud Computing</p>|<h4><strong>GitHub Stats</strong></h4>|
+|<h3>Open to Work</h3><p>Passionate about leveraging<br>technology to enhance<br>quality of life.<br><br>Specializing in<br> Cyber Security & Cloud Computing</p>|<h4><strong>GitHub Stats</strong></h4>|
 |:-----------------------------------------|:--------------------------------------------------------:|
 |<h4><strong>My Skills Backpack</strong></h4><p>Linux • Splunk • ELK Stack •<br>Metasploit • Wireshark • Tshark •<br>Nmap • Snort • Zeek • Nessus •<br>Burp Suite • OWASP ZAP •<br>Autopsy • OpenVAS • Bloodhound</p>|<div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" />|
 
