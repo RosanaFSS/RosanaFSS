@@ -8,7 +8,7 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 
 <br>
 
-<img height="140px" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556"/>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556" style='border:none;'></>
 
 <br>
 
