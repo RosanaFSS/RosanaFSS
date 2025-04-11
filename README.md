@@ -13,7 +13,7 @@
 
 <div align="center">
 
-|<h4 align="center"><strong>My Skills Backpack</strong></h4>|<h4 align="center"><strong>GitHub Stats</strong></h4>|
+|<h4><strong>My Skills Backpack</strong></h4>|<h4"><strong>GitHub Stats</strong></h4>|
 |:-----------------------------------------:|:--------------------------------------------------------:|
 |<p align="center">Linux • Splunk • ELK Stack<br>Metasploit • Wireshark • Tshark<br>Nmap • Snort • Zeek • Nessus<br>Burp Suite • OWASP ZAP<br>Autopsy • OpenVAS • Bloodhound</p>|<div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" />|
 
