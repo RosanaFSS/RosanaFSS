@@ -3,7 +3,7 @@
 
 <div align="center">
 
-|<h3>Open to Work</h3><p>Passionate about leveraging technology<br>to enhance quality of life.<br><br>Specializing in<br> Cyber Security & Cloud Computing.</p>|<h3>GitHub Stats</h3><div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="100px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" /><br>|
+|<h3>Open to Work</h3><p>Passionate about leveraging technology<br>to enhance quality of life.<br><br>Specializing in<br> Cyber Security & Cloud Computing.</p>|<h3>GitHub Stats</h3><div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="100px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" /><br><br>|
 |:-----------------------------------------|:--------------------------------------------------------:|
 |<h3>My Skills Backpack</h3><p>Linux • Splunk • ELK Stack • Metasploit •<br> Wireshark • Tshark • Nmap • Snort •<br> Zeek • Nessus •Burp Suite • OWASP ZAP • Autopsy •<br> OpenVAS • Bloodhound</p>|<h3>TryHackMe</h3><div align="center"><img height="80px" src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /></div><br>|
 
