@@ -1,7 +1,5 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><bold>Rosana</bold></a>.</h1>
 
-<h1 align="center">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>.</h1><br>
-
 <div align="center">
 
 |<h3>My Skills Backpack</h3> <p>🐧 Linux ⬩ Splunk ⬩ ELK Stack ⬩ Metasploit ⬩<br>  Wireshark ⬩ Tshark ⬩ 👁️ Nmap ⬩ 🐽 Snort ⬩<br> Zeek ⬩ Nessus ⬩ Burp Suite ⬩ OWASP ZAP ⬩<br> Autopsy ⬩ OpenVAS ⬩ Bloodhound ⬩ AWS</p>|<h3>TryHackMe</h3><div align="center"><img height="95px" src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /></div><br>|
