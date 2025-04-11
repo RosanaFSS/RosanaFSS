@@ -8,4 +8,4 @@
 
 </div>
 
-<img src="https://www.wireshark.org/assets/images/logo.png" alt="Wireshark Logo" height="50"/>
+<img src="https://www.google.com/imgres?q=wireshark%20official%20logo&imgurl=https%3A%2F%2Fwww.wireshark.org%2Fassets%2Fimg%2Fsflogo-front.png&imgrefurl=https%3A%2F%2Fwww.wireshark.org%2F&docid=Cy2Fgwy-tHs3aM&tbnid=b-Exvbatxw8u_M&vet=12ahUKEwiPuPPI9M6MAxU4gWEGHWZ8Av8QM3oECBsQAA..i&w=540&h=540&hcb=2&ved=2ahUKEwiPuPPI9M6MAxU4gWEGHWZ8Av8QM3oECBsQAA" alt="Wireshark Logo" height="50"/>
