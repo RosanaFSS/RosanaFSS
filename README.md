@@ -10,22 +10,7 @@
 </div>
 <br>
 <p align="center"><strong>My skills backpack has valuable gadgets!</strong></p>
-<p align="center">
-    <img src="https://img.icons8.com/color/64/000000/linux.png" alt="Linux" title="Linux" />
-    <img src="https://img.icons8.com/color/64/000000/splunk.png" alt="Splunk" title="Splunk" />
-    <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-elk-stack-cyber-security-flat-flat-juicy-fish.png" alt="ELK Stack" title="ELK Stack" />
-    <img src="https://img.icons8.com/color/64/000000/metasploit.png" alt="Metasploit" title="Metasploit" />
-    <img src="https://img.icons8.com/color/64/000000/wireshark.png" alt="Wireshark" title="Wireshark" />
-    <img src="https://img.icons8.com/color/64/000000/nmap.png" alt="Nmap" title="Nmap" />
-    <img src="https://img.icons8.com/color/64/000000/snort.png" alt="Snort" title="Snort" />
-    <img src="https://img.icons8.com/color/64/000000/zeek.png" alt="Zeek" title="Zeek" />
-    <img src="https://img.icons8.com/color/64/000000/nessus.png" alt="Nessus" title="Nessus" />
-    <img src="https://img.icons8.com/color/64/000000/burp-suite.png" alt="Burp Suite" title="Burp Suite" />
-    <img src="https://img.icons8.com/color/64/000000/autopsy.png" alt="Autopsy" title="Autopsy" />
-    <img src="https://img.icons8.com/color/64/000000/openvas.png" alt="OpenVAS" title="OpenVAS" />
-    <img src="https://img.icons8.com/color/64/000000/bloodhound.png" alt="Bloodhound" title="Bloodhound" />
-</p>
-
+<p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>
 <div align="center">
     <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" hspace="20" />
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" />
