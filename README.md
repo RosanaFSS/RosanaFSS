@@ -8,7 +8,7 @@ $$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security an
 
 <br>
 
-<p align="center"> TryHackMe<br><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556"></iframe> </p>
+<img height="140px" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2264556"/>
 
 <br>
 
