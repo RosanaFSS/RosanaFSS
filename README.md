@@ -16,9 +16,9 @@
 
 <div align="center">
 
-| <h3 align="center"><strong>My Skills Backpack</strong></h3>|Hard                                                      |
-|:---:|:--------------------------------------------------------|
-| <h3 align="center"><strong>My Skills Backpack</strong></h3><p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>| <h3 align="center"><strong>GitHub Stats</strong></h3><div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" />|
+|<h3 align="center"><strong>My Skills Backpack</strong></h3>|<h3 align="center"><strong>GitHub Stats</strong></h3>|
+|:-----------------------------------------:|:--------------------------------------------------------:|
+|<p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>|<div align="center" style="display: flex; justify-content: center; gap: 20px;"><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&theme=highcontrast" alt="RosanaFSS" /><img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" />|
 
 </div>
 
