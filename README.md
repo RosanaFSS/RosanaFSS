@@ -8,7 +8,7 @@ My skills backpack has valuable gadgets!!</h3>
 
 
 
-<p><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&&theme=highcontrast" alt="RosanaFSS"  hspace="20" />
+<p>align="center"><img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosanafss&&theme=highcontrast" alt="RosanaFSS"  hspace="20" />
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" /></p>
 
 
