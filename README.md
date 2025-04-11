@@ -1,7 +1,7 @@
-<h3 align="center">Hey 👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
+<h3 align="center">Hey there!👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
 I’m <strong>Open to Work</strong>.<br><br>
-Passionated about how technology can improve life quality!<br>
-I have specialized in Cyber Security and Cloud Computing.<br><br>
+Passionate about leveraging technology to enhance quality of life.<br>
+Specializing in Cyber Security & Cloud Computing<br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /><br><br>
 My skills backpack has valuable gadgets!!</h3>
 <p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>
