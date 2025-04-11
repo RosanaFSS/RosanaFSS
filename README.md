@@ -14,6 +14,10 @@
 <h3 align="center"><strong>My Skills Backpack</strong></h3>
 <p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>
 
+<div align="center">
+
+| Day|Hard                                                      |
+|:---:|:--------------------------------------------------------|
 | <h3 align="center"><strong>My Skills Backpack</strong></h3>
 <p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>| <h3 align="center"><strong>GitHub Stats</strong></h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
