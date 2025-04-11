@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a></h1>
-<br>
+<h1 align="center">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a></h1><br>
 
 <div align="center">
 
