@@ -1,5 +1,5 @@
 <h3 align="center">Hey 👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
-I’m currently <strong>Open to Work</strong>.<br><br>
+I’m <strong>Open to Work</strong>.<br><br>
 Passionated about how technology can improve life quality!<br>
 I have specialized in Cyber Security and Cloud Computing.<br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /><br><br>
