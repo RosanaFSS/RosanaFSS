@@ -33,7 +33,7 @@
 <h3 align="center">Let’s Connect!</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/rosanafssantos/" style="margin: 0 10px;">LinkedIn</a> • 
-    <a href="https://medium.com/rosanafs" style="margin: 0 10px;">Medium</a>
+    <a href="https://medium.com/@RosanaFS" style="margin: 0 10px;">Medium</a>
 </p>
 
 <br>
