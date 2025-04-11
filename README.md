@@ -8,4 +8,4 @@
 
 </div>
 
-<img src="https://slackmojis.com/emojis/56954-wireshark/download" alt="Wireshark Logo" height="10"/>
+<img src="https://slackmojis.com/emojis/56954-wireshark/download" alt="Wireshark Logo" height="30"/>
