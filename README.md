@@ -8,6 +8,4 @@
 
 </div>
 
-![Wireshark Logo](https://slackmojis.com/emojis/56954-wireshark/download)
-
-![Wireshark Logo](https://iconscout.com/free-icon/aws-3215369_2673787)
+<img src="https://slackmojis.com/emojis/56954-wireshark/download" alt="Wireshark Logo" height="10"/>
