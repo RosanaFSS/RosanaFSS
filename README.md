@@ -5,11 +5,8 @@
 <h3 align="center">I’m currently <strong>Open to Work</strong>.<br><br>
 
 Passionated about how technology can improve life quality!<br>
-Currently I´m upskilling learning Cyber Security and Cloud Computing.</h3>
-
-<br>
-
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /></p>
+Currently I´m upskilling learning Cyber Security and Cloud Computing.<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Rosana.png" alt="TryHackMe" /></h3>
 
 <h4  align="center">My $$\textcolor{#FF69B4}{\textbf{skills backpack}}$$ has valuable gadgets!!</h4>
 <p align="center">Linux . Splunk . ELK Stack . Metasploit . Wireshark . Tshark . Nmap . Snort<br>Zeek . Nessus . Burp Suite . OWASP ZAP . Autopsy . OpenVAS . Bloodhound</p>
