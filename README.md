@@ -3,8 +3,8 @@
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=rosanafss&show_icons=true&locale=en&theme=highcontrast" alt="RosanaFSS" /><br>
 <h5 align="center">I’m currently <strong>Open to Work</strong>.</h5></h3>
 
-<h3 align="center">$$\textcolor{white}{\textbf{Passionated about how technology can improve life quality!}}$$<br>
-$$\textcolor{white}{\textbf{Currently I´m upskilling learning Cyber Security and Cloud Computing.}}$$</h3>
+<h3 align="center">Passionated about how technology can improve life quality!<br>
+Currently I´m upskilling learning Cyber Security and Cloud Computing.</h3>
 
 <br>
 
