@@ -8,4 +8,4 @@
 
 </div>
 
-<img src="https://images.app.goo.gl/b9q7RgBV98e8xZGdA" alt="Wireshark Logo" height="30"/>
+<img src="https://www.wireshark.org/" alt="Wireshark Logo" height="30"/>
