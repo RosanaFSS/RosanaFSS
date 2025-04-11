@@ -1,4 +1,4 @@
-<h3 align="center">Hey there!👋, &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
+<h3 align="center">Hey there! &nbsp; 👋 &nbsp; I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><em>Rosana</em></a>!<br>
 <strong>Open to Work</strong><br><br>
 Passionate about leveraging technology to enhance quality of life.<br>
 Specializing in Cyber Security & Cloud Computing<br><br>
