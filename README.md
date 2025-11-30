@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">Hey there! 👋 I'm <a href="https://www.linkedin.com/in/rosanafssantos/"><bold>Rosana</bold></a>.</h1>
-<p align="center">Last updated : 2025, November 14</p>
+<p align="center">Last updated : 2025, November 30</p>
 
 <div align="center">
 
